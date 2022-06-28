@@ -1,0 +1,4 @@
+<div class="alert alert-success">Success! Well done its submitted.</div>
+<div class="alert alert-info">Info! take this info.</div>
+<div class="alert alert-warning">Warning ! Dont submit this.</div>
+<div class="alert alert-danger">Error ! Change few things.</div>
